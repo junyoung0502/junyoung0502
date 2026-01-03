@@ -1,5 +1,7 @@
-## startupcode / 스타트업코드
-안녕하세요! 🙋‍♂️ 개발자 입니다. 늘 배우고자하는 자세로 임하겠습니다! 많은 피드백 부탁드립니다~!
+## Lee JunYoung / 이준영
+안녕하세요! 🙋‍♂️ 개발자 입니다.
+늘 배우고자하는 자세로 임하겠습니다! 
+많은 피드백 부탁드립니다~!
 <br />
 <br />
 <br />
@@ -17,11 +19,11 @@
 <br />
 <br />
 ## Skills
-#### I use it often.
+ I use it often.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
-#### I've used it before.
+ I've used it before.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
